@@ -23,3 +23,16 @@ d:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\obj\D
 d:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\obj\Debug\net8.0\minimal-api.pdb
 d:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\obj\Debug\net8.0\minimal-api.genruntimeconfig.cache
 d:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\obj\Debug\net8.0\ref\minimal-api.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\bin\Debug\net8.0\Humanizer.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\bin\Debug\net8.0\MySqlConnector.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\obj\Debug\net8.0\minimal-api.csproj.AssemblyReference.cache
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\obj\Debug\net8.0\minimal-api.sourcelink.json
+D:\Bootcamp\Bootcamp-FullStak-Xp\projetos\Desafios\minimal-api\minimal-api\obj\Debug\net8.0\minimal-.F3613C90.Up2Date
